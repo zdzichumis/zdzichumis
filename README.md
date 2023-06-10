@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zdzichumis
+- 👋 Hi, I’m @zdzichumiś
 - 👀 I’m interested in data analisis, metaphilosophy, many branches of mathematics, some aspects of psychology and much more...
 - 🌱 I’m currently studying applied mathematics
 - 📫 How to reach me: adammichalski@adres.pl
