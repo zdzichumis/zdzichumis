@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zdzichumiś
-- 👀 My interests include data analysis, both theoretical and practical mathematics, some computer games such as Factorio and much much more...
+- 👀 My interests include data analysis, both theoretical and practical mathematics, some computer games and much much more...
 - 🌱 I am currently studying applied mathematics. 
 - 📫 How to reach me: adammichalski@adres.pl
 
